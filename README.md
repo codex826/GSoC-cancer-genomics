@@ -38,7 +38,7 @@ As part of your application, please submit a **short video (3–5 minutes)** exp
 
 ## About the cBioPortal
 
-The cBioPortal for Cancer Genomics is a resource designed to provide broad community access to cancer genomic data. It provides a unique user-friendly and "biology-centric computational user interface", with the goal of making genomic data more easily accessible to translational scientists, biologists, and clinicians. The interface was explicitly built and continues to evolve with careful usability studies involving multiple biological and clinical users, and an active and engaged user base.
+The cBioPortal for Cancer Genomics is a resource designed to provide broad community access to cancer genomic data. It provides a unique user­-friendly and "biology­-centric computational user interface", with the goal of making genomic data more easily accessible to translational scientists, biologists, and clinicians. The interface was explicitly built and continues to evolve with careful usability studies involving multiple biological and clinical users, and an active and engaged user base.
 
 ![image](https://user-images.githubusercontent.com/840895/52232457-96ac8f80-288a-11e9-8208-96ce42df5716.png)
 
@@ -48,7 +48,7 @@ The cBioPortal project has become an [open source project](https://github.com/cB
 
 ## About us
 
-We are a group of software engineers, bioinformaticians, and cancer biologists building software solutions for precision medicine for cancer patients. Our overall goal is to build infrastructure to support clinical decisions for personalized cancer treatment by utilizing "big data" of cancer genomics and patient clinical profiles. Our multi-institutional team currently has more than 30 active members, primarily from [Memorial Sloan Kettering Cancer Center](https://www.mskcc.org/) in New York, [the Dana-Farber Cancer Institute](http://www.dana-farber.org/) in Boston, [Princess Margaret Cancer Centre](http://www.theprincessmargaret.ca/) in Toronto, [Children's Hospital of Philadelphia](http://www.chop.edu/), and [The Hyve, a bioinformatics company from the Netherlands](http://thehyve.nl/).
+We are a group of software engineers, bioinformaticians, and cancer biologists building software solutions for precision medicine for cancer patients. Our overall goal is to build infrastructure to support clinical decisions for personalized cancer treatment by utilizing “big data” of cancer genomics and patient clinical profiles. Our multi-institutional team currently has more than 30 active members, primarily from [Memorial Sloan Kettering Cancer Center](https://www.mskcc.org/) in New York, [the Dana-Farber Cancer Institute](http://www.dana-farber.org/) in Boston, [Princess Margaret Cancer Centre](http://www.theprincessmargaret.ca/) in Toronto, [Children's Hospital of Philadelphia](http://www.chop.edu/), and [The Hyve, a bioinformatics company from the Netherlands](http://thehyve.nl/).
 
 ## Resources for GSoC
 
