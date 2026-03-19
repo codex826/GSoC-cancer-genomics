@@ -17,13 +17,28 @@ A list of cBioPortal GSoC project ideas are [available on GitHub with label GSoC
 - Develop your project proposal based on one of [the ideas](https://github.com/cBioPortal/GSoC/issues?q=is%3Aopen+is%3Aissue+label%3AGSoC-2026). Please feel free to come up with your own project idea. We recommend looking at [how to write a proposal](https://google.github.io/gsocguides/student/writing-a-proposal).
 - Start with the [proposal template](https://github.com/cBioPortal/GSoC/wiki/template).
 - What we are looking for in the proposal are: 1) your understanding of the proposed project; 2) your understanding of cbioportal and its code base; 3) a concrete plan of implementation.
+- Submit a short video explaining your proposal. See the [Video requirement](#video-requirement) section below for details.
 - Submit your proposal early. We will start to provide feedbacks to proposals once they are submitted.
 - If you have any questions about any of the ideas, please comment on GitHub issues or ask us on the [cBioPortal Public Slack](https://slack.cbioportal.org). You can also send us your draft proposal privately on Slack.
 - For questions of eligibility, see [GSoC FAQ](https://developers.google.com/open-source/gsoc/faq#what_are_the_eligibility_requirements_for_participation). Note that unlike previous years, it is not necessary to be enrolled in an academic program, allowing anyone eager to learn to participate.
 
+## Video requirement
+
+As part of your application, please submit a **short video (3–5 minutes)** explaining your proposal. In this video, we'd like you to:
+
+- Introduce yourself briefly
+- Explain the project idea you are proposing in your own words
+- Describe your planned approach and timeline at a high level
+
+> **⚠️ Important:** Please do **not** use AI tools to generate a script for your video. The goal is for us to get to know *you* — how you think and communicate. Just be yourself and speak in your own words. It doesn't need to be perfect!
+
+**Privacy:** Your video will be kept **strictly private** and will only be used for GSoC evaluation purposes. It will not be shared publicly.
+
+**How to submit:** Please upload your video to a file-sharing service (e.g., Google Drive, Dropbox, OneDrive) and send the link to the Admin (Gaofei Zhao) privately via direct message on the [cBioPortal Public Slack](https://slack.cbioportal.org).
+
 ## About the cBioPortal
 
-The cBioPortal for Cancer Genomics is a resource designed to provide broad community access to cancer genomic data. It provides a unique user­-friendly and "biology­-centric computational user interface", with the goal of making genomic data more easily accessible to translational scientists, biologists, and clinicians. The interface was explicitly built and continues to evolve with careful usability studies involving multiple biological and clinical users, and an active and engaged user base.
+The cBioPortal for Cancer Genomics is a resource designed to provide broad community access to cancer genomic data. It provides a unique user-friendly and "biology-centric computational user interface", with the goal of making genomic data more easily accessible to translational scientists, biologists, and clinicians. The interface was explicitly built and continues to evolve with careful usability studies involving multiple biological and clinical users, and an active and engaged user base.
 
 ![image](https://user-images.githubusercontent.com/840895/52232457-96ac8f80-288a-11e9-8208-96ce42df5716.png)
 
@@ -33,7 +48,7 @@ The cBioPortal project has become an [open source project](https://github.com/cB
 
 ## About us
 
-We are a group of software engineers, bioinformaticians, and cancer biologists building software solutions for precision medicine for cancer patients. Our overall goal is to build infrastructure to support clinical decisions for personalized cancer treatment by utilizing “big data” of cancer genomics and patient clinical profiles. Our multi-institutional team currently has more than 30 active members, primarily from [Memorial Sloan Kettering Cancer Center](https://www.mskcc.org/) in New York, [the Dana-Farber Cancer Institute](http://www.dana-farber.org/) in Boston, [Princess Margaret Cancer Centre](http://www.theprincessmargaret.ca/) in Toronto, [Children's Hospital of Philadelphia](http://www.chop.edu/), and [The Hyve, a bioinformatics company from the Netherlands](http://thehyve.nl/).
+We are a group of software engineers, bioinformaticians, and cancer biologists building software solutions for precision medicine for cancer patients. Our overall goal is to build infrastructure to support clinical decisions for personalized cancer treatment by utilizing "big data" of cancer genomics and patient clinical profiles. Our multi-institutional team currently has more than 30 active members, primarily from [Memorial Sloan Kettering Cancer Center](https://www.mskcc.org/) in New York, [the Dana-Farber Cancer Institute](http://www.dana-farber.org/) in Boston, [Princess Margaret Cancer Centre](http://www.theprincessmargaret.ca/) in Toronto, [Children's Hospital of Philadelphia](http://www.chop.edu/), and [The Hyve, a bioinformatics company from the Netherlands](http://thehyve.nl/).
 
 ## Resources for GSoC
 
